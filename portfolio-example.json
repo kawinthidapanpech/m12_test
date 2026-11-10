@@ -1,0 +1,46 @@
+{
+  "id": "p001",
+  "displayName": "Alex Student",
+  "whatIEnjoy": "Web design and teamwork",
+  "whatIveTried": "My first website",
+  "whatImCuriousAbout": "Cloud computing",
+  "items": [
+    {
+      "id": "item001",
+      "title": "My First Website",
+      "type": "Course Assignment",
+      "date": "2026-10-18",
+      "role": "Developer",
+      "description": "Created a personal website",
+      "skills": ["HTML", "CSS"],
+      "reflection": {
+        "whatIDid": "Built the website",
+        "whatILearned": "Responsive design",
+        "challenge": "Mobile layout",
+        "nextStep": "Improve the design"
+      },
+      "evidence": [
+        "https://example.com/my-work"
+      ]
+    },
+    {
+      "id": "item002",
+      "title": "Spot the Request",
+      "type": "Challenge",
+      "date": "2026-11-24",
+      "role": "Player",
+      "description": "Played challenge G01-C01 from Group 01",
+      "skills": ["DevTools", "HTTP"],
+      "reflection": {
+        "whatIDid": "Found the GET and POST requests in the Network tab",
+        "whatILearned": "POST data is in the request body, not the URL",
+        "challenge": "Finding the Payload tab",
+        "nextStep": "Try it on my own app"
+      },
+      "evidence": [
+        "https://example.com/screenshot-network-tab.png"
+      ],
+      "challengeId": "G01-C01"
+    }
+  ]
+}

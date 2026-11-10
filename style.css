@@ -1,0 +1,21 @@
+body {
+    background: #f6f7f9;
+    color: #26323a;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.hero {
+    background: #e6efeb;
+    color: #172c2a;
+}
+.hero p { color: #536662; }
+.tracking { letter-spacing: .13em; }
+.card { background: #fff; }
+.form-panel { background: #20343a; color: #fff; }
+.form-panel .tracking, .form-hint { color: #c0d3d2; }
+.form-label { font-size: .9rem; font-weight: 600; }
+.form-control { border-radius: .65rem; padding: .68rem .8rem; }
+.form-error { color: #ffbec3; min-height: 1.3em; }
+.btn-success { background: #177966; border-color: #177966; }
+.btn-success:hover { background: #116351; border-color: #116351; }
+.portfolio-btn.active { background: #177966; color: #fff; }
+.item-card { background: #f6f7f9; }
